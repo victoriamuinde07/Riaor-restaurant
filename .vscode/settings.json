@@ -1,0 +1,8 @@
+{
+    "eslint.enable": false,
+    "standard.enable": false,
+    "tslint.enable": false,
+    "cSpell.words": [
+        "Riaor"
+    ]
+}
