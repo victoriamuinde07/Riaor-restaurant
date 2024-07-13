@@ -3,6 +3,9 @@
     "standard.enable": false,
     "tslint.enable": false,
     "cSpell.words": [
-        "Riaor"
+        "Pilau",
+        "Riaor",
+        "Rlogo",
+        "stylelint"
     ]
 }
